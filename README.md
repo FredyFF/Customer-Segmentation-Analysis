@@ -2,7 +2,7 @@
 
 ---------------------
 
-Exploratory Data Analysis (EDA) about Customer Segmentation Analysis
+Exploratory Data Analysis (EDA) about Customer Segmentation Analysis and clustering with KMeans Clustering Algorithm
 
 I have explored the Mall Customer Segmentation Data dataset to find the answers for the following questions:
 1. What is the average customer visit the mall?
