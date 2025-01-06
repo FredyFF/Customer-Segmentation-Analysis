@@ -12,5 +12,6 @@ I have explored the Mall Customer Segmentation Data dataset to find the answers 
 5. In what age range are customers who shop at the mall?
 6. How many customer clusters are there at the mall?
 
-References : https://amaretha.medium.com/analisis-segmentasi-pelanggan-dengan-k-means-clustering-c4d6301e9b65
-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+References : 
+- https://amaretha.medium.com/analisis-segmentasi-pelanggan-dengan-k-means-clustering-c4d6301e9b65
+- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
